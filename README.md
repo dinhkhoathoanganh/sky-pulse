@@ -2,7 +2,7 @@
 
 ## Visit Dashboard
 
-**URL**: https://xxxxxx
+**DEMO**: https://dinhkhoathoanganh.github.io/sky-pulse
 
 ## Summary
 
