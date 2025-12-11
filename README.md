@@ -39,3 +39,9 @@ This project is built with:
 `npm i`
 
 `npm run dev`
+
+For Git Pages deployment
+
+`npm install gh-pages --save-dev`
+
+`npm run deploy`
