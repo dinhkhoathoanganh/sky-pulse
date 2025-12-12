@@ -1,8 +1,11 @@
 # Welcome to SkyPulse!
 
+**DEMO**: https://ddhanh.github.io/sky-pulse
+
 ## Visit Dashboard
 
-**DEMO**: https://ddhanh.github.io/sky-pulse
+<img width="1159" height="941" alt="Screenshot 2025-12-11 at 10 23 37 PM" src="https://github.com/user-attachments/assets/0ed2040d-fd03-40b4-9f72-2abe56fd99ab" />
+
 
 ## Summary
 
